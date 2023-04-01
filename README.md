@@ -1,4 +1,7 @@
-[![MasterHead](https://thumbs.gfycat.com/TemptingThatJohndory.webp)]()
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2e4fba116051129.605a4afa6db8d.gif" alt="Banner" style="width:100%; height: auto; object-fit: cover; object-position: center;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Shaik Arsh Hussain</h1>
 <h3 align="center">A passionate Computer Scientist from India</h3>
 
