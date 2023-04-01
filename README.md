@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2e4fba116051129.605a4afa6db8d.gif" alt="Banner" style="width:100%; height: auto; object-fit: cover; object-position: center;">
+<div style="position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; overflow: hidden;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2e4fba116051129.605a4afa6db8d.gif" alt="Banner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 75vw; height: auto;">
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Shaik Arsh Hussain</h1>
 <h3 align="center">A passionate Computer Scientist from India</h3>
