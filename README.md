@@ -1,5 +1,4 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)](https://i.gifer.com/1kc1.gif)
-
+[![MasterHead](https://thumbs.gfycat.com/TemptingThatJohndory.webp)]()
 <h1 align="center">Hi 👋, I'm Shaik Arsh Hussain</h1>
 <h3 align="center">A passionate Computer Scientist from India</h3>
 
