@@ -1,10 +1,11 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fbinary&psig=AOvVaw0XapJqHGTaUzzXo6yauUYR&ust=1680421643092000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjF4cqYiP4CFQAAAAAdAAAAABAg)](https://github.com/shaikarshhussain1729/shaikarshhussain1729.git)
+[![MasterHead](https://i.gifer.com/1kc1.gif)](https://i.gifer.com/1kc1.gif)
+
 <h1 align="center">Hi 👋, I'm Shaik Arsh Hussain</h1>
 <h3 align="center">A passionate Computer Scientist from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcool-equations-7gnlfT&psig=AOvVaw2AnhCtRaikbnWHfPw-m7to&ust=1680421468090000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjpi_eXiP4CFQAAAAAdAAAAABAg">
+<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/8-01-2015/7gnlfT.gif">
 
 - 🔭 I’m currently working on **AI,Computer Vision,Machine Learning**
 
