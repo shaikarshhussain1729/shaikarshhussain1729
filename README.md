@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Numerical Analysis , Regression analysis , Probability and Stats , Applied Computational Mathematics**
 
-- 📫 How to reach me **shaik.2020bite015@nitsri.net**
+- 📫 How to reach me **hussainarsh673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
